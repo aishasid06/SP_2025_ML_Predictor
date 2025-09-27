@@ -45,7 +45,9 @@ Predicted Stock Ranking 2025 table (1 = best):
 8. WEC (expected rank 76.44)
 9. TSN (expected rank 76.74)
 10. ANET (expected rank 76.96)
+
 .....
+
 40. NDAQ (expected rank 84.55)
 41. UDR (expected rank 84.59)
 42. EIX (expected rank 84.64)
